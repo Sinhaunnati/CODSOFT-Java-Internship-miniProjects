@@ -1,4 +1,4 @@
-# Java-Internship-miniProjects
+# CODSOFT-Java-Internship-miniProjects
 
 A collection of general-purpose Java mini-projects developed during my internship, including mini games, interfaces, and practice applications.
 
