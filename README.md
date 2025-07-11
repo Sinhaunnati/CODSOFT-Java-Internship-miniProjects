@@ -19,7 +19,7 @@ A collection of general-purpose Java mini-projects developed during my internshi
 1. Download or clone this repository.
 2. Compile any `.java` file using:javac FileName.java
 3. Run using:java FileName
-4. 4. Follow the on-screen instructions in each program.
+4. Follow the on-screen instructions in each program.
 
 ## Author
 
